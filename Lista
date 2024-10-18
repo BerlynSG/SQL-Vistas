@@ -1,11 +1,16 @@
+
+Simbolos:
+Completo(/), Dudoso(-)
+
+
 Se requiere crear los siguientes vistas para los indicadores de dwh: 
 
-    Ventas Totales por Período (Año y Mes)
-    Ventas por Categoría de Producto
-    Total de Ventas por Categoría
-    Ventas por Región/País
-    Número de Pedidos Procesados por Empleado
-    Productividad de Empleados (Ventas por Empleado)
+    Ventas Totales por Período (Año y Mes) -
+    Ventas por Categoría de Producto -
+    Total de Ventas por Categoría -
+    Ventas por Región/País -
+    Número de Pedidos Procesados por Empleado /
+    Productividad de Empleados (Ventas por Empleado) -
     Clientes Atendidos por Empleado
     Productos Más Vendidos
     Productos Más Vendidos por Categoría
