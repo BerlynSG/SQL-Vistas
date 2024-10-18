@@ -14,7 +14,7 @@ Se requiere crear los siguientes vistas para los indicadores de dwh:
     Clientes Atendidos por Empleado /
     Productos Más Vendidos /
     Productos Más Vendidos por Categoría /
-    Total de Ventas por Transportista
-    Número de Órdenes Enviadas por Transportista
-    Total de Ventas por Cliente
-    Número de Órdenes por Cliente
+    Total de Ventas por Transportista /
+    Número de Órdenes Enviadas por Transportista /
+    Total de Ventas por Cliente /
+    Número de Órdenes por Cliente /
