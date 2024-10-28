@@ -1,4 +1,6 @@
 
+Desidí que las ventas totales incluyen el precio de los productos, y los que dicen solo "venta" solo sumar la catidad de productos vendidos.
+
 Simbolos:
 Completo(/), Dudoso(-)
 
@@ -7,7 +9,7 @@ Se requiere crear los siguientes vistas para los indicadores de dwh:
 
     Ventas Totales por Período (Año y Mes) /
     Ventas por Categoría de Producto /
-    Total de Ventas por Categoría -
+    Total de Ventas por Categoría /
     Ventas por Región/País /
     Número de Pedidos Procesados por Empleado /
     Productividad de Empleados (Ventas por Empleado) /
